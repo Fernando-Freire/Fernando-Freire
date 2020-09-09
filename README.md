@@ -6,10 +6,10 @@ My name is Fernando Freire. Computer Science graduate student.
 - ✨ Toghether with a few graduate friends, I proposed and coordinate a research project, serving as an co-advisor to an undergrad student on a scientific initiation regarding cloud based system design and microservice architecture. More about on the website [Ada Website](https://uclab.xyz/ada)
 - 🌱 I’m currently learning how to do CI/CD and cloud-native systems.
 - 💬 Ask me about: Docker, Kubernetes, Java, Go, Agile Methods, Real-time systems, Complex Event Processing, Personal Assistants.
-- 📫 How to reach me: [Twitter](https://twitter.com/f_freire_s) [email](fernando.scattone@alumni.usp.br)
+- 📫 How to reach me: [![Twitter](https://img.shields.io/badge/f_freire_s%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/f_freire_s) or my [email](fernando.scattone@alumni.usp.br)
 - 😄 Pronouns: He/his
 - ⚡ Fun fact: I'm Vegan, and would like to work in projects involving computer science towards improving our environment.
---> More about me : [my own website](https:///sites.google.com/alumni.usp.br/fernando/)
+--> More about me : my own [website](https:///sites.google.com/alumni.usp.br/fernando/)
 
 
 

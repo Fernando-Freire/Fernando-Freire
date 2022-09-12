@@ -4,7 +4,7 @@ My name is Fernando Freire. I'm a Phycisist and Master in Computer Sciences. Cur
 
 - 🔭 My main interests include real-time systems development, machine learning engineering and dev-ops.
 - ✨ Toghether with a few graduate friends, I proposed and coordinate a research project, serving as an co-advisor to an undergrad student on a scientific initiation regarding cloud based system design and microservice architecture. More about on the website [Ada Website](https://uclab.xyz/ada)
-- 📫 My [email](fernando.scattone@alumni.usp.br)
+- 📫 My personal [email](fernando.scattone@alumni.usp.br)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-Freire&theme=radical&hide=PlpgSQL,tsql,css,jupyter%20notebook,html)
